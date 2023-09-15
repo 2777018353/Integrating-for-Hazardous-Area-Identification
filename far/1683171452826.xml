@@ -1,0 +1,38 @@
+<annotation>
+	<folder>far</folder>
+	<filename>1683171452826.jpg</filename>
+	<path>D:\code\window-people\window-people - 副本\window-people\far\1683171452826.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>window</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>7</ymin>
+			<xmax>311</xmax>
+			<ymax>87</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>people</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>52</ymin>
+			<xmax>248</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+</annotation>
